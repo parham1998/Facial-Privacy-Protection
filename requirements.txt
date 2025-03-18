@@ -1,0 +1,13 @@
+torch==2.2.1+cu121
+torchvision==0.17.1+cu121
+tqdm==4.65.0
+diffusers==0.9.0
+numpy==1.26.4
+opencv_python==4.10.0
+Pillow==10.2.0
+facenet-pytorch==2.5.3
+cmake==3.25.2
+dlib==19.24.2
+scipy==1.11.4
+ftfy==6.2.0
+regex==2.5.135
