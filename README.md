@@ -79,7 +79,13 @@ python main.py
 
 ## Citation 
 ```bibtex
-@InProceedings{}
+@inproceedings{salar2025enhancing,
+  title={Enhancing Facial Privacy Protection via Weakening Diffusion Purification},
+  author={Salar, Ali and Liu, Qing and Tian, Yingli and Zhao, Guoying},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={8235--8244},
+  year={2025}
+}
 ```
 
 ## Acknowledgments
